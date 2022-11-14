@@ -2,6 +2,10 @@ package src;
 
 import java.util.concurrent.Semaphore;
 
+//Brendo Yuki Katagi - RA 120.682
+//Luan Olimpio Claro da Costa - RA 120.855
+//Matheus Anido Pereira Coimbra - RA 104.112
+
 public class TrafficController {
 	Semaphore sem = new Semaphore(1, true);
 
